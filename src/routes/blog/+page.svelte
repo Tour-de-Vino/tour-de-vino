@@ -16,12 +16,12 @@
 		</div>
 		<div class="relative mx-auto max-w-7xl">
 			<div class="text-center">
-				<h2 class="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
-					Blogging blogging
+				<h2 class="text-3xl font-bold tracking-tight sm:text-4xl">
+					Blog
 				</h2>
-				<p class="mx-auto mt-3 max-w-2xl text-xl text-gray-500 sm:mt-4">
+				<!-- <p class="mx-auto mt-3 max-w-2xl text-xl text-gray-500 sm:mt-4">
 					Some examples for blogging
-				</p>
+				</p> -->
 			</div>
 			<div class="mx-auto mt-12 grid max-w-lg gap-5 lg:max-w-none lg:grid-cols-3">
 				{#each data.posts as post}
@@ -36,8 +36,8 @@
 										<a href={post.slug} class="hover:underline">Blog</a>
 									</p>
 									<a href={post.slug} class="mt-2 block">
-										<p class="text-xl font-semibold text-gray-900">{post.title}</p>
-										<p class="mt-3 text-base text-gray-500">{post.description}</p>
+										<p class="text-xl font-semibold">{post.title}</p>
+										<p class="mt-3 text-base">{post.description}</p>
 									</a>
 								</div>
 								<div class="mt-6 flex items-center">
@@ -50,7 +50,7 @@
 									</div>
 									<div class="ml-3">
 										<!-- Author Name -->
-										<p class="text-sm font-medium text-gray-900">
+										<p class="text-sm font-medium">
 											<a href="#" class="hover:underline">{post.author}</a>
 										</p>
 										<div class="flex space-x-1 text-sm text-gray-500">

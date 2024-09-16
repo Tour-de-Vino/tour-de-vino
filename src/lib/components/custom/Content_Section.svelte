@@ -11,7 +11,7 @@
 						Tour de Vino
 					</h1>
 					<p class="mt-6 text-xl leading-8 text-gray-700">
-						bla bla bla
+						Nulla facilisi. Vestibulum facilisis id augue at laoreet. Suspendisse id facilisis quam, eget accumsan risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec sem justo, ultrices a gravida id, molestie vitae ipsum. Nunc lacus purus, blandit eget felis ac, aliquet feugiat lorem. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 					</p>
 				</div>
 			</div>
@@ -21,7 +21,7 @@
 		>
 			<img
 				class="w-[48rem] max-w-none rounded-xl rounded-b-lg bg-gray-900 shadow-xl"
-				src="/carrousel-images/robot-sketch3.png"
+				src="/carrousel-images/boats.jpeg"
 				alt=""
 			/>
 		</div>
@@ -38,9 +38,7 @@
 								alt=""
 							/>
 							<span
-								><strong class="font-semibold text-gray-900">Anticipate Market Trends.</strong> Leverage
-								our predictive analytics to forecast commodity price movements, identify emerging market
-								trends, and capitalize on opportunities ahead of the competition.</span
+								><strong class="font-semibold text-gray-900">Some cool topic.</strong> Suspendisse placerat, libero a porttitor rhoncus, ligula diam viverra tellus, sed molestie enim libero a enim. Aenean in tristique ipsum. Curabitur massa ex, ornare quis varius vel, tincidunt nec odio. In nec felis tincidunt, imperdiet felis a, fermentum odio. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse hendrerit iaculis eros, eu lobortis mi volutpat sit amet. Suspendisse dolor mauris, porta tincidunt urna in, suscipit fringilla enim. Maecenas viverra quam orci, a sollicitudin ipsum ornare ac. Maecenas condimentum quam eu quam bibendum aliquam. Morbi sapien ligula, faucibus eu posuere in, aliquam in libero. Pellentesque mauris nisl, feugiat eget commodo id, pellentesque sit amet arcu. Fusce efficitur libero non porttitor gravida. Sed porttitor orci non massa finibus elementum. In feugiat vitae enim et finibus. </span
 							>
 						</li>
 						<li class="flex gap-x-3">
@@ -50,10 +48,7 @@
 								alt=""
 							/>
 							<span
-								><strong class="font-semibold text-gray-900">Optimize Hedging Strategies</strong> Utilize
-								our advanced algorithms to optimize hedging strategies, mitigate price volatility, and
-								protect against adverse market conditions, ensuring effective risk management for your
-								commodity portfolio.</span
+								><strong class="font-semibold text-gray-900">Some other cool topic here</strong> Nulla facilisi. Vestibulum facilisis id augue at laoreet. Suspendisse id facilisis quam, eget accumsan risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec sem justo, ultrices a gravida id, molestie vitae ipsum. Nunc lacus purus, blandit eget felis ac, aliquet feugiat lorem. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. </span
 							>
 						</li>
 						<li class="flex gap-x-3">
@@ -63,10 +58,8 @@
 								alt=""
 							/>
 							<span
-								><strong class="font-semibold text-gray-900">Enhance Decision-Making</strong>
-								Access real-time insights and data-driven recommendations to make informed decisions
-								on commodity trading, investment allocations, and hedging strategies, enhancing overall
-								portfolio performance and profitability.</span
+								><strong class="font-semibold text-gray-900">Other amazing topic</strong>
+								Quisque hendrerit fringilla ex in porta. Pellentesque sit amet lectus et libero consectetur tincidunt sit amet non ex. Maecenas at orci scelerisque tortor tincidunt tincidunt. Nulla mattis eget leo vitae congue. Morbi elementum eros a velit consectetur malesuada. Aenean fermentum, sem sit amet molestie lobortis, nisl lacus volutpat velit, id consectetur libero diam sed ligula. Nunc pretium at ipsum at hendrerit. Integer efficitur condimentum lectus a efficitur.</span
 							>
 						</li>
 					</ul>
@@ -74,13 +67,7 @@
 						something
 					</h2>
 					<p class="mt-6">
-						Our advanced analytics capabilities enable us to provide valuable information for
-						performing hedging strategies, allowing clients to manage and mitigate risks associated
-						with commodity price fluctuations. Whether hedging against currency volatility,
-						commodity price changes, or geopolitical uncertainties, we deliver timely and accurate
-						insights to support effective risk management strategies and optimize portfolio
-						performance. With something, clients can stay ahead of market trends, minimize exposure
-						to adverse events, and maximize their competitive advantage in commodity markets.
+						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce mollis sapien et rhoncus pharetra. Pellentesque sit amet dolor vitae quam facilisis ornare quis ac eros. Phasellus eget consectetur tellus, non sodales dolor. Ut dictum leo vitae ultrices dictum. Etiam sed diam ullamcorper metus semper convallis eget et enim. Vivamus nisi magna, volutpat eu turpis id, tempor facilisis diam. Proin id lacus vel nunc ullamcorper pulvinar nec sit amet lacus. Aenean elementum tincidunt ante, vel ultricies magna ullamcorper ut. Duis porttitor sed nisi id dapibus.
 					</p>
 				</div>
 			</div>

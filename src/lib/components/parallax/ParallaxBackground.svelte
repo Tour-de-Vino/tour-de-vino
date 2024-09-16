@@ -18,15 +18,15 @@
 	/>
 
 	<ParallaxLayer offset="0.8" rate="-0.3" style="opacity: 0.3;">
-		<img src={url('satellite3')} alt="" style="width: 15%; margin-left: 70%;" />
+		<img src="/parallax/wine-opener-svgrepo-com.svg" alt="" style="display: block; width: 10%; margin-left: 55%;" />
 	</ParallaxLayer>
 
 	<ParallaxLayer offset="0.0" rate="0.2" style="opacity: 0.1;">
-		<img src="/parallax/atom.svg" alt="" style="display: block; width: 10%; margin-left: 55%;" />
+		<img src="/parallax/wine-glass-svgrepo-com.svg" alt="" style="display: block; width: 10%; margin-left: 55%;" />
 	</ParallaxLayer>
 	<ParallaxLayer offset="0.2" rate="0.8" style="opacity: 0.1;">
 		<img
-			src="/parallax/bar-chart-4.svg"
+			src="/parallax/wine-svgrepo-com.svg"
 			alt=""
 			style="display: block; width: 10%; margin-left: 15%;"
 		/>
@@ -34,30 +34,29 @@
 
 	<ParallaxLayer offset="0.75" rate="0.5" style="opacity: 0.1;">
 		<img
-			src="/parallax/candlestick-chart.svg"
+			src="/parallax/wine-barrel-svgrepo-com.svg"
 			alt=""
 			style="display: block; width: 10%; margin-left: 70%;"
 		/>
-		<img src="/parallax/boxes.svg" alt="" style="display: block; width: 10%; margin-left: 40%;" />
+		<img src="/parallax/wine-svgrepo-com-2.svg" alt="" style="display: block; width: 10%; margin-left: 40%;" />
 	</ParallaxLayer>
 
 	<ParallaxLayer offset="0" rate="0.2" style="opacity: 0.1;">
-		<img src="/parallax/bot.svg" alt="" style="display: block; width: 10%; margin-left: 10%;" />
-		<img src="/parallax/sigma.svg" alt="" style="display: block; width: 10%; margin-left: 75%;" />
+		<img src="/parallax/the-trees-svgrepo-com.svg" alt="" style="display: block; width: 10%; margin-left: 10%;" />
+		<img src="/parallax/the-trees-svgrepo-com.svg" alt="" style="display: block; width: 10%; margin-left: 75%;" />
 	</ParallaxLayer>
 
 	<ParallaxLayer offset="0.6" rate="-0.1" style="opacity: 0.1;">
-		<img src="/parallax/braces.svg" alt="" style="display: block; width: 10%; margin-left: 60%;" />
-		<img src="/parallax/pi.svg" alt="" style="display: block; width: 10%; margin-left: 30%;" />
+		<img src="/parallax/indicator-svgrepo-com.svg" alt="" style="display: block; width: 10%; margin-left: 60%;" />
+		<img src="/parallax/map-svgrepo-com.svg" alt="" style="display: block; width: 10%; margin-left: 30%;" />
 	</ParallaxLayer>
 
 	<ParallaxLayer
-		offset="1.5"
+		offset="1.4"
 		rate="-0.4"
 		style="display: flex; align-items: center; justify-content: center;"
 	>
-		<!-- <iframe src="//www.shipmap.org" style="width: 100%; height: 600px; border: 0" frameborder="0"></iframe> -->
-		<img src="/parallax/globe.svg	" alt="" style="width: 60%;" />
+		<img src="/parallax/wine-svgrepo-com-2.svg	" alt="" style="width: 60%;" />
 	</ParallaxLayer>
 
 	<ParallaxLayer
