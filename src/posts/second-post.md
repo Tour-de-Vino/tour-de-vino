@@ -1,7 +1,7 @@
 ---
 title: DNS PLS WORK
 description: DNS PLS WORK
-date: '2023-4-16'
+date: "2023-4-16"
 categories:
   - sveltekit
   - svelte
