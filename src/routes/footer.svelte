@@ -7,7 +7,7 @@
 	class="bg-silver top-0 flex flex-wrap justify-around rounded-t-lg bg-gray-800 py-3 text-white shadow-lg"
 >
 	<p>{config.title} &copy {new Date().getFullYear()}</p>
-	<p class="quote">Tailored AI solutions for your business</p>
+	<p class="quote">Wine Excellence for you</p>
 </nav>
 
 <style>
