@@ -38,8 +38,6 @@
 				class="grid grid-cols-1 gap-x-8 gap-y-6 text-base font-semibold leading-7 text-white sm:grid-cols-2 md:flex lg:gap-x-10"
 			>
 				<a href="/blog">Blog <span aria-hidden="true">&rarr;</span></a>
-				<a href="/case">Case Studies <span aria-hidden="true">&rarr;</span></a>
-				<a href="#">Contacts <span aria-hidden="true">&rarr;</span></a>
 				<a href="#">Team <span aria-hidden="true">&rarr;</span></a>
 			</div>
 		</div>

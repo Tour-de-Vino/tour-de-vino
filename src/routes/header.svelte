@@ -55,10 +55,6 @@
 						class="my-1 text-sm text-gray-700 hover:text-blue-500 md:mx-4 md:my-0 dark:text-gray-200 dark:hover:text-blue-400"
 						href="/blog">Blog</a
 					>
-					<a
-						class="my-1 text-sm text-gray-700 hover:text-blue-500 md:mx-4 md:my-0 dark:text-gray-200 dark:hover:text-blue-400"
-						href="/case_studies">Case Studies</a
-					>
 					<Modal show={$modal}>
 						<a
 							class="my-1 text-sm text-gray-700 hover:text-blue-500 md:mx-4 md:my-0 dark:text-gray-200 dark:hover:text-blue-400"
