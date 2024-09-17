@@ -15,7 +15,7 @@
 <div class="layout">
 	<Header></Header>
 
-	<main>
+	<main style="background-image: url('https://awv3node-homepage.surge.sh/build/assets/stars.svg'); background-size: cover;">
 		<PageTransition url={data.url}>
 			<slot />
 		</PageTransition>
