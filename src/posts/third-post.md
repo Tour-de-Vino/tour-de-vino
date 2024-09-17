@@ -12,10 +12,21 @@ image: carrousel-images/boat.jpeg
 
 ## Long-Term Strategy to Boost Direct-to-Consumer Revenue 
 
-1. Build a content-based recommendation engine using existing wine data.
-2. Introduce data collection methods to gather real user preferences (Implic vs Explicit feedback)
-    User registration, forms, etc (tracking user preferences over time).
-3. Evolve to collaborative filtering as the dataset grows and matures.
+1. **Build a content-based recommendation engine using existing wine data.**
+
+![Principal Component Analysis](PCA.png)
+
+> We can analyse the *intrinsic characteristics* of the wines and cluster them into groups based on their similarities. This will allow us to recommend wines that are similar to the ones the user has liked in the past. This following plot healights the first three principal components of the wines, which can be used to cluster them into groups. 
+Each component is a linear combination of multiple chacharecteristics of the wines, such as *acidity*, *sweetness*, etc.
+
+
+2. **Introducing data collection methods to gather real user preferences** 
+
+(Implic vs Explicit feedback) User registration, forms, etc (tracking user preferences over time).
+
+3. Evolve to **collaborative filtering** as the dataset grows and matures.
+
+Information about user preferences can be used to recommend wines that similar users have liked in the past.
 
 
 Key Selling Points 

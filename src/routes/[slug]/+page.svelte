@@ -2,11 +2,6 @@
 	import { formatDate } from '$lib/utils'
 
 	export let data
-
-
-	const url = (name, wrap = false) =>
-		`${wrap ? 'url(' : ''}https://awv3node-homepage.surge.sh/build/assets/${name}.svg${wrap ? ')' : ''}`
-
 </script>
 
 <svelte:head>
