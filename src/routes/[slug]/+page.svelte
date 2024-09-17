@@ -15,30 +15,29 @@
 	<meta property="og:title" content={data.meta.title} />
 </svelte:head>
 
-<div class="-py-10 absolute h-48 w-full">
-	<img
-		class="h-full w-full rounded-none rounded-b-xl object-cover"
-		src={data.meta.image}
-		alt={data.meta.title}
-	/>
-</div>
-<div style="background-image: url('https://awv3node-homepage.surge.sh/build/assets/stars.svg'); background-size: cover;">
-	<article>
-		<hgroup>
-			<h1>{data.meta.title}</h1>
-			<p>Published at {formatDate(data.meta.date)}</p>
-		</hgroup>
 
-		<div class="tags">
-			{#each data.meta.categories as category}
-				<span class="surface-4">&num;{category}</span>
-			{/each}
-		</div>
 
-		<div class="prose">
-			<svelte:component this={data.content} />
-		</div>
-	</article>
+<div>
+	<div class="-py-10 absolute h-48 w-full">
+		<img
+			class="h-full w-full rounded-none rounded-b-xl object-cover"
+			src={data.meta.image}
+			alt={data.meta.title}
+		/>
+	</div>
+	<div class="py-40" style="background-image: url('https://awv3node-homepage.surge.sh/build/assets/stars.svg'); background-size: cover;">
+		<article>
+			<hgroup>
+				<h1>{data.meta.title}</h1>
+				<p>{data.meta.description}</p>
+				<p>Published at {formatDate(data.meta.date)}</p>
+			</hgroup>
+	
+			<div class="prose">
+				<svelte:component this={data.content} />
+			</div>
+		</article>
+	</div>
 </div>
 
 <style>

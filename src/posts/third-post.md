@@ -4,7 +4,6 @@ description: Building a direct-to-consumer strategy
 date: "2024-9-17"
 categories:
   - sveltekit
-  - svelte
 published: true
 author: Tour de Vino Team
 author_image: logo.png
