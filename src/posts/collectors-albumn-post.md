@@ -8,7 +8,7 @@ categories:
 published: true
 author: Tour de Vino Team
 author_image: logo.png
-image: carrousel-images/boat.jpeg
+image: DA305E56-57A6-4A11-812E-0096845F291D_1_105_c.jpeg
 ---
 
 The **Sogrape Collectors Album** is designed for wine lovers who seek a personalized journey through Sogrape’s diverse portfolio of wines. This program offers a curated wine selection each year, using our advanced recommendation system based on customer preferences, purchase history, and demographic information. To take part, customers simply fill out a form, providing details about their preferences, interests, and personal data, which helps Sogrape create a fully customized experience for them. The goal is to keep customers engaged by providing yearly recommendations and incentivizing them to complete their album with exclusive rewards.

@@ -1,5 +1,5 @@
 ---
-title: Data-Driven Solutions
+title: AI Recommendations
 description: Leveraging data for personalized wine experiences
 date: "2024-9-17"
 categories:
