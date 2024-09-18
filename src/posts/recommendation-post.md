@@ -54,6 +54,14 @@ Based on the "Shreya Basu, Personalized product recommendations and firm perform
 - Evolve to **collaborative filtering** as the dataset grows and matures.
 
 Information about user preferences can be used to recommend wines that similar users have liked in the past.
+
+Interested for more? Check out our dashboard for a live demo of the recommendation engine!
+[Dashboard](https://huggingface.co/spaces/TourdeVino/showcase)
+
+<div style="text-align: center;">
+  <img src="dashboard_example.png", alt="Dashboard Example" />
+</div>
+
 <!-- 
 This leads to:
 
