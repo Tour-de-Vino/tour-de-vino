@@ -54,7 +54,7 @@ Based on the "Shreya Basu, Personalized product recommendations and firm perform
 ### Upgrade Path
 
 
-![](upgrade-path.png)
+![](upgrade-path-v2.png)
 
 <!-- Transitioning to **collaborative filtering** as the data grows and matures will enable more personalized and accurate recomendations.
 
