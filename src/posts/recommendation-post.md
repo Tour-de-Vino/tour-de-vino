@@ -33,7 +33,6 @@ image: carrousel-images/boat.jpeg
   </li>
 </ul>
 
-
 ### Basic Approach
 
 <div style="text-align: center;">
@@ -65,7 +64,6 @@ Interested for more? Check out our dashboard for a live demo of the recommendati
 ![Dashboard Example](dashboard_example.png)
 
 Let's take a look into how to improve wine tourism [Passaport](/passaport-post)
-
 
 ---
 

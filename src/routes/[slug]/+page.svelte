@@ -27,8 +27,7 @@
 				<p>{data.meta.description}</p>
 				<p>Published at {formatDate(data.meta.date)}</p>
 			</hgroup>
-	
-			<div class="prose">
+			<div class="prose py-20"> 
 				<svelte:component this={data.content} />
 			</div>
 		</article>
