@@ -5,8 +5,8 @@
   "elements": [
     {
       "type": "rectangle",
-      "version": 157,
-      "versionNonce": 2118325985,
+      "version": 160,
+      "versionNonce": 20785983,
       "isDeleted": false,
       "id": "sTm98TPOcXrLuQPZ8-h6c",
       "fillStyle": "solid",
@@ -17,7 +17,7 @@
       "angle": 0,
       "x": 265.5078125,
       "y": 173.90625,
-      "strokeColor": "#1e1e1e",
+      "strokeColor": "#f08c00",
       "backgroundColor": "transparent",
       "width": 232.7734375,
       "height": 69.53124999999999,
@@ -33,14 +33,14 @@
           "id": "6hjAY9uIsBhCfuOdsxSX2"
         }
       ],
-      "updated": 1726581587856,
+      "updated": 1726657165568,
       "link": null,
       "locked": false
     },
     {
       "type": "text",
-      "version": 96,
-      "versionNonce": 1904135003,
+      "version": 99,
+      "versionNonce": 485321777,
       "isDeleted": false,
       "id": "6hjAY9uIsBhCfuOdsxSX2",
       "fillStyle": "solid",
@@ -51,7 +51,7 @@
       "angle": 0,
       "x": 288.90462493896484,
       "y": 183.671875,
-      "strokeColor": "#1e1e1e",
+      "strokeColor": "#f08c00",
       "backgroundColor": "transparent",
       "width": 185.9798126220703,
       "height": 50,
@@ -60,7 +60,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1726581941618,
+      "updated": 1726657165568,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -71,12 +71,12 @@
       "containerId": "sTm98TPOcXrLuQPZ8-h6c",
       "originalText": "Customer Lifetime Value",
       "lineHeight": 1.25,
-      "baseline": 43
+      "baseline": 44
     },
     {
       "type": "text",
-      "version": 83,
-      "versionNonce": 2042243573,
+      "version": 85,
+      "versionNonce": 778872703,
       "isDeleted": false,
       "id": "7e7PvJxPvsG17WdNupKCI",
       "fillStyle": "solid",
@@ -87,7 +87,7 @@
       "angle": 0,
       "x": 519.00390625,
       "y": 185.10546875,
-      "strokeColor": "#1e1e1e",
+      "strokeColor": "#f08c00",
       "backgroundColor": "transparent",
       "width": 22.211990356445312,
       "height": 45,
@@ -96,7 +96,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1726581933240,
+      "updated": 1726657170377,
       "link": null,
       "locked": false,
       "fontSize": 36,
@@ -111,8 +111,8 @@
     },
     {
       "type": "rectangle",
-      "version": 333,
-      "versionNonce": 46210913,
+      "version": 334,
+      "versionNonce": 16068049,
       "isDeleted": false,
       "id": "21iFAAeoqB70Qx7wnVona",
       "fillStyle": "solid",
@@ -123,7 +123,7 @@
       "angle": 0,
       "x": 559.609375,
       "y": 171,
-      "strokeColor": "#1e1e1e",
+      "strokeColor": "#2f9e44",
       "backgroundColor": "transparent",
       "width": 261.52734375,
       "height": 73.12109374999999,
@@ -139,14 +139,14 @@
           "id": "2RqG6bCTYbQu0Bvi8DtF7"
         }
       ],
-      "updated": 1726581602849,
+      "updated": 1726657174437,
       "link": null,
       "locked": false
     },
     {
       "type": "text",
-      "version": 299,
-      "versionNonce": 593796917,
+      "version": 300,
+      "versionNonce": 379196351,
       "isDeleted": false,
       "id": "2RqG6bCTYbQu0Bvi8DtF7",
       "fillStyle": "solid",
@@ -157,7 +157,7 @@
       "angle": 0,
       "x": 614.9131164550781,
       "y": 195.060546875,
-      "strokeColor": "#1e1e1e",
+      "strokeColor": "#2f9e44",
       "backgroundColor": "transparent",
       "width": 150.91986083984375,
       "height": 25,
@@ -166,7 +166,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1726581948138,
+      "updated": 1726657174437,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -177,12 +177,12 @@
       "containerId": "21iFAAeoqB70Qx7wnVona",
       "originalText": "Customer Value",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 19
     },
     {
       "type": "text",
-      "version": 165,
-      "versionNonce": 902650843,
+      "version": 167,
+      "versionNonce": 1750809937,
       "isDeleted": false,
       "id": "vqmlvmsdfjVdV2yHg6xVE",
       "fillStyle": "solid",
@@ -193,7 +193,7 @@
       "angle": 0,
       "x": 842.5619735717773,
       "y": 180.81640625,
-      "strokeColor": "#1e1e1e",
+      "strokeColor": "#f08c00",
       "backgroundColor": "transparent",
       "width": 21.527999877929688,
       "height": 45,
@@ -202,7 +202,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1726581933241,
+      "updated": 1726657179107,
       "link": null,
       "locked": false,
       "fontSize": 36,
@@ -217,8 +217,8 @@
     },
     {
       "type": "rectangle",
-      "version": 427,
-      "versionNonce": 10110575,
+      "version": 428,
+      "versionNonce": 581873041,
       "isDeleted": false,
       "id": "Df_hc6v7cnHOhIRDs0KSL",
       "fillStyle": "solid",
@@ -229,7 +229,7 @@
       "angle": 0,
       "x": 878.306640625,
       "y": 167.619140625,
-      "strokeColor": "#1e1e1e",
+      "strokeColor": "#1971c2",
       "backgroundColor": "transparent",
       "width": 261.52734375,
       "height": 73.12109374999999,
@@ -245,14 +245,14 @@
           "id": "Oy3cMzEzsy2j5FTwKhdOc"
         }
       ],
-      "updated": 1726581613286,
+      "updated": 1726657176366,
       "link": null,
       "locked": false
     },
     {
       "type": "text",
-      "version": 431,
-      "versionNonce": 411357237,
+      "version": 432,
+      "versionNonce": 654929919,
       "isDeleted": false,
       "id": "Oy3cMzEzsy2j5FTwKhdOc",
       "fillStyle": "solid",
@@ -263,7 +263,7 @@
       "angle": 0,
       "x": 915.520393371582,
       "y": 179.1796875,
-      "strokeColor": "#1e1e1e",
+      "strokeColor": "#1971c2",
       "backgroundColor": "transparent",
       "width": 187.09983825683594,
       "height": 50,
@@ -272,7 +272,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1726581959057,
+      "updated": 1726657176366,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -283,12 +283,12 @@
       "containerId": "Df_hc6v7cnHOhIRDs0KSL",
       "originalText": "Average Customer Lifespan",
       "lineHeight": 1.25,
-      "baseline": 43
+      "baseline": 44
     }
   ],
   "appState": {
     "gridSize": null,
-    "viewBackgroundColor": "#ffffff"
+    "viewBackgroundColor": "#fffce8"
   },
   "files": {}
 }

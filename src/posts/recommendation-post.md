@@ -15,9 +15,16 @@ image: carrousel-images/boat.jpeg
 1. Recommedation of **similar wines based on similar features** (i.e. grape variety, producer, etc.)
 2. Suggest wines based on their previous preferences and interactions or ratings.
 
+Based on the "Shreya Basu, Personalized product recommendations and firm performance, Electronic Commerce Research and Applications, Volume 48, 2021, 101074", we can see that personalized recommendations can increase sales by 30%.
+
+![30 Percent](30percent.svg)
+
 ### Basic Approach
 
-![Principal Component Analysis](PCA.png)
+<div style="text-align: center;">
+  <img src="PCA.png" alt="Principal Component Analysis" />
+  <img src="pca_zoom.png" alt="Principal Component Analysis Zoomed In" width="300"/>
+</div>
 
 > We can analyse the _intrinsic characteristics_ of the wines and cluster them into groups based on their similarities. This will allow us to recommend wines that are similar to the ones the user has liked in the past. This following plot healights the first three principal components of the wines, which can be used to cluster them into groups.
 > Each component is a linear combination of multiple chacharecteristics of the wines, such as _acidity_, _sweetness_, etc.

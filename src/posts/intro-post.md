@@ -8,7 +8,7 @@ categories:
 published: true
 author: Tour de Vino Team
 author_image: logo.png
-image: carrousel-images/boat.jpeg
+image: logo.png
 ---
 
 ## Hello world 👋 🍷
