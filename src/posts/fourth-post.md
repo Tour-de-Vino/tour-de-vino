@@ -1,6 +1,6 @@
 ---
 title: Sogrape Collector Albumn
-description: A journey of Wine and Experiences 
+description: A journey of Wine and Experiences
 date: "2024-9-18"
 categories:
   - sveltekit
@@ -28,8 +28,10 @@ Once customers fill their album with all the stickers by purchasing each recomme
 As customers continue to engage with the Collectors Album, the recommendations evolve based on their past purchases and preferences. This ensures the program remains dynamic, adapting to each customer's changing tastes while providing an ever-fresh selection of wines year after year.
 
 ## Key Benefits:
+
 - **Long-Term Customer Loyalty**: By offering yearly personalized albums, Sogrape keeps customers engaged in a long-term relationship, encouraging repeat purchases and fostering deep loyalty.
 - **Data-Driven Personalization**: Leveraging customer data gathered through the initial form, purchase history, and feedback, Sogrape makes more accurate and personalized recommendations, enhancing the overall customer experience and satisfaction.
 - **Gamification and Rewards**: The process of collecting stickers or pins adds a layer of excitement, motivating customers to complete their album and claim their reward, fostering a sense of achievement.
 - **Revenue Growth**: With a yearly focus on personalized recommendations, the album encourages customers to purchase directly from Sogrape, leading to increased sales and deeper engagement with the brand.
+
 ---
