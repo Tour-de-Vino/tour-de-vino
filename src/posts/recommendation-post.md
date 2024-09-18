@@ -10,6 +10,8 @@ author_image: logo.png
 image: carrousel-images/boat.jpeg
 ---
 
+
+
 ### Proven Business Impact of Recommender Systems
 1. **Amazon** is one of the most prominent users and pioneers of recommendation systems. By personalizing the online shopping experience for each customer, these recommendations contribute to **35%** of the company's total revenue.[1].
 
@@ -36,7 +38,7 @@ Based on the "Shreya Basu, Personalized product recommendations and firm perform
 2. Suggest wines based on their previous preferences and interactions or ratings.
 
 <div style="text-align: center;">
-  <img src="content_based_recommender.svg" alt="Content-based" />
+  <img src="basic-recommend.png" alt="Content-based" />
 </div>
 
 ### Basic Approach
@@ -51,11 +53,14 @@ Based on the "Shreya Basu, Personalized product recommendations and firm perform
 
 ### Upgrade Path
 
-- Transitioning to **collaborative filtering** as the data grows and matures will enable more personalized and accurate recomendations.
+
+![](upgrade-path.png)
+
+<!-- Transitioning to **collaborative filtering** as the data grows and matures will enable more personalized and accurate recomendations.
 
 - Customer Feedback Data Collection Pipelines:
 1. **Explicit Feedback**: Gather direct customer inputs through ratings, reviews, and comments. Implement post-purchase surveys or incentivized feedback systems that encourage user participation without being overly intrusive.
-2. **Implicit Feedback**: Implement passive data collection through non-intrusive methods such as tracking user interactions with product pages, time spent per page, browsing behavior, cart additions, and purchase frequency.
+2. **Implicit Feedback**: Implement passive data collection through non-intrusive methods such as tracking user interactions with product pages, time spent per page, browsing behavior, cart additions, and purchase frequency.-->
 
 ### Key Advantages 
 - Scalable solution.
