@@ -51,7 +51,17 @@ Based on the "Shreya Basu, Personalized product recommendations and firm perform
 
 ### Upgrade Path
 
-- Evolve to **collaborative filtering** as the dataset grows and matures.
+- Transitioning to **collaborative filtering** as the data grows and matures will enable more personalized and accurate recomendations.
+
+- Customer Feedback Data Collection Pipelines:
+1. **Explicit Feedback**: Gather direct customer inputs through ratings, reviews, and comments. Implement post-purchase surveys or incentivized feedback systems that encourage user participation without being overly intrusive.
+2. **Implicit Feedback**: Implement passive data collection through non-intrusive methods such as tracking user interactions with product pages, time spent per page, browsing behavior, cart additions, and purchase frequency.
+
+### Key Advantages 
+- Scalable solution.
+- Real time suggestions
+- Fully automated
+- AI-driven and human expertise independent.
 
 Information about user preferences can be used to recommend wines that similar users have liked in the past.
 
