@@ -26,6 +26,14 @@ Based on the "Shreya Basu, Personalized product recommendations and firm perform
 1. Recommedation of **similar wines based on similar features** (i.e. grape variety, producer, etc.)
 2. Suggest wines based on their previous preferences and interactions or ratings.
 
+<div style="text-align: center;">
+  <img src="content_based_recommender.svg" alt="Content-based" />
+</div>
+
+
+Based on the "Shreya Basu, Personalized product recommendations and firm performance, Electronic Commerce Research and Applications, Volume 48, 2021, 101074", we can see that personalized recommendations can increase sales by 30%.
+
+![30 Percent](30percent.svg)
 
 
 ### Basic Approach
