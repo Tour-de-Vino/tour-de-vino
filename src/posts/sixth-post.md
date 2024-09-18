@@ -11,8 +11,6 @@ author_image: logo.png
 image: carrousel-images/boat.jpeg
 ---
 
-# **Data Collection Strategies**
-
 In today’s competitive wine industry, gathering insightful customer data is key to providing personalized experiences that drive engagement, enhance customer loyalty, and improve sales. By integrating smart data collection methods into wine tastings, vineyard visits, and loyalty programs, companies like Sogrape can deliver tailored offerings and predict customer needs with precision.
 
 ## **During Wine Tasting**:
