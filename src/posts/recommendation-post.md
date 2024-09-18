@@ -58,9 +58,8 @@ Information about user preferences can be used to recommend wines that similar u
 Interested for more? Check out our dashboard for a live demo of the recommendation engine!
 [Dashboard](https://huggingface.co/spaces/TourdeVino/showcase)
 
-<div style="text-align: center;">
-  <img src="dashboard_example.png", alt="Dashboard Example" />
-</div>
+
+![Dashboard Example](dashboard_example.png)
 
 <!-- 
 This leads to:
