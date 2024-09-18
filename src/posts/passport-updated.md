@@ -1,5 +1,5 @@
 ---
-title: Sogrape Passport
+title: Sogrape's Passport
 description: Building long-term relations
 date: "2024-9-18"
 categories:
@@ -11,7 +11,9 @@ author_image: logo.png
 image: carrousel-images/boat.jpeg
 ---
 
-The **Sogrape Passport** is an exciting adventure for wine enthusiasts, offering a unique opportunity to explore Sogrape’s vast array of physical locations, including vineyards, cellars, and tasting rooms. The Passport acts as a companion for those who embark on this journey, incentivizing them to visit different Sogrape sites across various regions and countries. The goal is to engage customers with a long-term challenge that not only deepens their connection with the brand but also rewards them for exploring all that Sogrape has to offer.
+![The **Sogrape Passport** is an exciting adventure for wine enthusiasts, offering a unique opportunity to explore Sogrape’s vast array of physical locations, including vineyards, cellars, and tasting rooms.](tour-de-vino/static/Passport.png)
+
+ The Passport acts as a companion for those who embark on this journey, incentivizing them to visit different Sogrape sites across various regions and countries. The goal is to engage customers with a long-term challenge that not only deepens their connection with the brand but also rewards them for exploring all that Sogrape has to offer.
 
 1. **Starting the Journey**:
    
