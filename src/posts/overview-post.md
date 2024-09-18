@@ -29,16 +29,6 @@ We will use Data Science Techniques and Machine Learning models to provide perso
 We will increase the customer lifetime value by providing gamifying the experience and providing a unique adventure to the customer.
 To do, we introduced the **Collectors Albumn** and **Sogrape Passport**.
 
----
-
-We believe all businesses should be data-driven.
-
-## **Wine Industry is no exception!**
-
-We will use both data science and machine learning to provide personalized recommendations to the customer, which will lead to an increase in customer retention and loyalty.
-
-Recommendation systems are a powerful tool to increase customer lifetime value (CLV).
-
 ![Customer Value](customer_lifetime_value.svg)
 
 Customer Lifetime Value represents the amount of revenue a customer generates over their lifetime. The goal is to increase this value by providing personalized recommendations to the customer, which will lead to an increase in customer retention and loyalty.
