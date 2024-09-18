@@ -7,7 +7,7 @@ categories:
 published: true
 author: Tour de Vino Team
 author_image: logo.png
-image: carrousel-images/boat.jpeg
+image: carrousel-images/robot-sketch3.png
 ---
 
 ## Building a Content-Based Wine Recommendation Engine

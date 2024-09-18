@@ -21,6 +21,9 @@ The **Sogrape's Passport** is an exciting adventure for wine enthusiasts, offeri
 
 3. **Reward-Based Gamification**: Customers are incentivized to complete their Passport, which keeps them engaged and motivated to continue their journey with Sogrape.
 
+Let's take a look into how to the Collector's Albumn [Collector's Albumn ](/collectors-albumn-post)
+
+
 <!--
 The Passport acts as a companion for those who embark on this journey, incentivizing them to visit different Sogrape sites across various regions and countries. The goal is to engage customers with a long-term challenge that not only deepens their connection with the brand but also rewards them for exploring all that Sogrape has to offer.
 
