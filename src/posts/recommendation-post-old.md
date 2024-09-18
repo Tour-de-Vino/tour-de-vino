@@ -10,15 +10,17 @@ author_image: logo.png
 image: carrousel-images/boat.jpeg
 ---
 
-## Building a Content-Based Wine Recommendation Engine
-
-<div style="text-align: center;">
-  <img src="basic-recommend.png" alt="Content-based" />
-</div>
 
 
+### Proven Business Impact of Recommender Systems
+1. **Amazon** is one of the most prominent users and pioneers of recommendation systems. By personalizing the online shopping experience for each customer, these recommendations contribute to **35%** of the company's total revenue.[1].
 
-### Proven Case Studies That Deliver Results
+2. Another well-known example of a recommendation system is **Netflix**’s algorithm. According to **McKinsey**, 75% of the content watched on **Netflix** is driven by its movie recommendations[2]. In the paper “The Netflix Recommender System: Algorithms, Business Value, and Innovation” [3], Netflix executives Carlos A. Gomez-Uribe and Neil Hunt highlight that this system saves the company approximately $1 billion annually. 
+
+3. **Spotify** reports that the introduction of its new recommendation algorithm has played a key role in boosting its monthly user base from **75 million to 100 million**. [4]. 
+
+
+
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="amazon.png" alt="Amazon" style="margin: 0 10px; width: 100px; border-radius: 0; object-fit: contain;" />
@@ -26,13 +28,31 @@ image: carrousel-images/boat.jpeg
   <img src="spotify.png" alt="Spotify" style="margin: 0 10px; width: 100px;" />
 </div>
 
+Based on the "Shreya Basu, Personalized product recommendations and firm performance, Electronic Commerce Research and Applications, Volume 48, 2021, 101074", we can see that personalized recommendations can increase sales by 30%.
+
+![30 Percent](30percent.svg)
+
+## Build a content-based recommendation engine using existing wine data
+
+1. Recommedation of **similar wines based on similar features** (i.e. grape variety, producer, etc.)
+2. Suggest wines based on their previous preferences and interactions or ratings.
+
+<div style="text-align: center;">
+  <img src="basic-recommend.png" alt="Content-based" />
+</div>
+
 ### Basic Approach
 
 <div style="text-align: center;">
-  <img src="pca.png" alt="Principal Component Analysis" />
+  <img src="PCA.png" alt="Principal Component Analysis" />
+  <img src="pca_zoom.png" alt="Principal Component Analysis Zoomed In" width="300"/>
 </div>
 
+> We can analyse the _intrinsic characteristics_ of the wines and cluster them into groups based on their similarities. This will allow us to recommend wines that are similar to the ones the user has liked in the past. This following plot healights the first three principal components of the wines, which can be used to cluster them into groups.
+> Each component is a linear combination of multiple chacharecteristics of the wines, such as _acidity_, _sweetness_, etc.
+
 ### Upgrade Path
+
 
 ![](upgrade-path-v2.png)
 

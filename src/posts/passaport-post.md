@@ -1,5 +1,5 @@
 ---
-title: Sogrape Passport
+title: Sogrape's Passport
 description: Building long-term relations
 date: "2024-9-18"
 categories:
