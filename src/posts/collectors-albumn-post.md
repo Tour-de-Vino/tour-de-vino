@@ -35,3 +35,5 @@ The **Sogrape Collectors Album** is designed for wine lovers who seek a personal
 - **Revenue Growth**: With a yearly focus on personalized recommendations, the album encourages customers to purchase directly from Sogrape, leading to increased sales and deeper engagement with the brand.
 
 ---
+
+Let's take a look into the [KPIs](/kpis-post).
