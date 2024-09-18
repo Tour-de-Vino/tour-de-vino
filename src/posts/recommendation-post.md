@@ -16,13 +16,23 @@ image: carrousel-images/boat.jpeg
   <img src="basic-recommend.png" alt="Content-based" />
 </div>
 
-### Proven Case Studies That Deliver Results
+### Proven Business Impact of Recommender Systems
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="amazon.png" alt="Amazon" style="margin: 0 10px; width: 100px; border-radius: 0; object-fit: contain;" />
-  <img src="netflix.png" alt="Netflix" style="margin: 0 10px; width: 100px;" />
-  <img src="spotify.png" alt="Spotify" style="margin: 0 10px; width: 100px;" />
-</div>
+<ul style="list-style: none; padding: 0;">
+  <li style="display: flex; align-items: center; margin-bottom: 10px;">
+    <img src="amazon.png" alt="Amazon" style="margin-right: 10px; width: 50px;  border-radius: 0; object-fit: contain;" />
+    <span>Contributed to 35% of the company's total revenue.</span>
+  </li>
+  <li style="display: flex; align-items: center; margin-bottom: 10px;">
+    <img src="netflix.png" alt="Netflix" style="margin-right: 10px; width: 50px;" />
+    <span>Netflix’s algorithm drives 75% of the content watched on the platform. This system saves the company approximately $1 billion annually.</span>
+  </li>
+  <li style="display: flex; align-items: center; margin-bottom: 10px;">
+    <img src="spotify.png" alt="Spotify" style="margin-right: 10px; width: 50px;" />
+    <span>Spotify’s recommendation algorithm boosted its monthly user base by 33%</span>
+  </li>
+</ul>
+
 
 ### Basic Approach
 
@@ -56,33 +66,6 @@ Interested for more? Check out our dashboard for a live demo of the recommendati
 
 Let's take a look into how to improve wine tourism [Passaport](/passaport-post)
 
-<!--
-This leads to:
-
-# Immediate Engagement & Personalization
-
-- Personalized Experience: Even without user data, the content-based recommendation engine provides relevant, personalized suggestions based on wine characteristics. This enhances customer experience immediately.
-
-  - Metric: CTR for recommended wines, engagement on the platform.
-
-# Revenue Growth Potential
-
-# Increasing Conversion Rates
-
-- Increased Sales: With more personalized suggestions, the system improves conversion rates and average order value as users are more likely to discover wines they love or add more bottles to their cart.
-
-  - Metric: Purchase conversion rate, AOV.
-
-# Scalability
-
-# Customer Retention
-
-Long-Term Value:
-
-- Customer Retention and Loyalty: Over time, as more user data is collected, the system will drive repeat purchases by providing even more personalized suggestions. This fosters customer loyalty and increases the lifetime value of each customer.
-
-  - Metric: Repeat purchase rate, user lifetime value (LTV).
--->
 
 ---
 
