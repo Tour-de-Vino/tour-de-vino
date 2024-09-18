@@ -29,6 +29,13 @@
 						href="/">Tour de Vino</a
 					>
 				</div>
+				<div class="px-9">
+					<img src="/sogrape_logo.svg" alt="logo" class="h-30 w-20" />
+				</div>
+				<div class="px-1">
+					<img src="/sogrape_hackaton.png" alt="logo" class="h-30 w-20" style="border-radius: 0; object-fit: contain;" />
+				</div>
+
 
 				<!-- Mobile menu button -->
 				<div class="flex md:hidden">
