@@ -21,15 +21,15 @@ image: carrousel-images/boat.jpeg
 <ul style="list-style: none; padding: 0;">
   <li style="display: flex; align-items: center; margin-bottom: 10px;">
     <img src="amazon.png" alt="Amazon" style="margin-right: 10px; width: 50px;  border-radius: 0; object-fit: contain;" />
-    <span>Contributed to 35% of the company's total revenue.</span>
+    <span>Contributed to 35% of the company's total revenue.[1]</span>
   </li>
   <li style="display: flex; align-items: center; margin-bottom: 10px;">
     <img src="netflix.png" alt="Netflix" style="margin-right: 10px; width: 50px;" />
-    <span>Netflix’s algorithm drives 75% of the content watched on the platform. This system saves the company approximately $1 billion annually.</span>
+    <span>Netflix’s algorithm drives 75% of the content watched on the platform [2]. This system saves the company approximately $1 billion annually.[3]</span>
   </li>
   <li style="display: flex; align-items: center; margin-bottom: 10px;">
     <img src="spotify.png" alt="Spotify" style="margin-right: 10px; width: 50px;" />
-    <span>Spotify’s recommendation algorithm boosted its monthly user base by 33%</span>
+    <span>Spotify’s recommendation algorithm boosted its monthly user base by 33%.[4]</span>
   </li>
 </ul>
 
