@@ -33,35 +33,27 @@ image: carrousel-images/robot-sketch3.png
   </li>
 </ul>
 
-### Basic Approach
+### Content-based Approach
 
 <div style="text-align: center;">
   <img src="pca.png" alt="Principal Component Analysis" />
 </div>
 
-### Upgrade Path
+### Collaborative filtering Approach
 
-![](upgrade-path-v2.png)
-
-<!-- Transitioning to **collaborative filtering** as the data grows and matures will enable more personalized and accurate recomendations.
-
-- Customer Feedback Data Collection Pipelines:
-1. **Explicit Feedback**: Gather direct customer inputs through ratings, reviews, and comments. Implement post-purchase surveys or incentivized feedback systems that encourage user participation without being overly intrusive.
-2. **Implicit Feedback**: Implement passive data collection through non-intrusive methods such as tracking user interactions with product pages, time spent per page, browsing behavior, cart additions, and purchase frequency.-->
-
-### Key Advantages
-
-- Scalable solution.
-- Real time suggestions
-- Fully automated
-- AI-driven and human expertise independent.
-
-Information about user preferences can be used to recommend wines that similar users have liked in the past.
+Based on the idea that users who have agreed in the past tend to agree in the future, we can make recommendations based on the preferences of similar users.
 
 Interested for more? Check out our dashboard for a live demo of the recommendation engine!
 [Dashboard](https://huggingface.co/spaces/TourdeVino/showcase)
-
 ![Dashboard Example](dashboard_example.png)
+
+
+### Key Advantages
+
+- Scalable solution
+- Real time suggestions
+- Fully automated
+
 
 Let's take a look into how to improve wine tourism [Passaport](/passaport-post)
 
