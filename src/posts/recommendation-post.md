@@ -17,6 +17,15 @@ image: carrousel-images/boat.jpeg
 
 3. **Spotify** reports that the introduction of its new recommendation algorithm has played a key role in boosting its monthly user base from **75 million to 100 million**. [4]. 
 
+
+
+
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="amazon.png" alt="Amazon" style="margin: 0 10px; width: 100px; border-radius: 0; object-fit: contain;" />
+  <img src="netflix.png" alt="Netflix" style="margin: 0 10px; width: 100px;" />
+  <img src="spotify.png" alt="Spotify" style="margin: 0 10px; width: 100px;" />
+</div>
+
 Based on the "Shreya Basu, Personalized product recommendations and firm performance, Electronic Commerce Research and Applications, Volume 48, 2021, 101074", we can see that personalized recommendations can increase sales by 30%.
 
 ![30 Percent](30percent.svg)
