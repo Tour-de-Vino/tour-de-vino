@@ -13,23 +13,26 @@ image: solution-diagram.png
 
 ![over](main-diagram-v2.png)
 
-# 3 Pillars of the Tour de Vino Project
 
-## Data-Driven Insights
+We introduce 3 main components in the solution:
+Sogrape Passport, Recommendation System, and Collectors Albumn.
+
+<!-- To say: `We introduce 3 main components in the solution: Sogrape Passport, Recommendation System, and Collectors Albumn.
+We will first discuss how a recommendation system can positively impact the business. Then we will introduce the Sogrape Passport and Collectors Albumn in order to increase customer lifetime value. Finally, we will provide a data maturity process to enhance the quality of the data.
+` -->
+
+## Recommendation System
 
 We will use Data Science Techniques and Machine Learning models to provide personalized recommendations to the customer, which will lead to an increase in customer retention and loyalty.
 
 ## Increase Customer Lifetime Value
 
-We will increase the customer lifetime value by providing personalized recommendations to the customer and gamifying the experience.
+We will increase the customer lifetime value by providing gamifying the experience and providing a unique adventure to the customer.
+To do, we introduced the **Collectors Albumn** and **Sogrape Passport**.
 
-## Data Maturity
-
-We will provide a data maturity process to enhance the quality of the data. This will lead to better insights and recommendations for the customer.
 
 ---
 
-# Data-Driven Insights 
 
 We believe all businesses should be data-driven.
 
@@ -52,15 +55,13 @@ Customer Lifetime Value represents the amount of revenue a customer generates ov
 
 ---
 
-The answer is to provide personalized recommendations to the customer, gamifying the experience, and providing a unique experience to the customer.
+
+## Data Maturity
+
+We will provide a data maturity process to enhance the quality of the data.
+
+
+----
+
 
 Let's take a look into the wine recommendation system. [Wine Recommendation System](/recommendation-post)
-
-<!-- ##
-
-Present Use Cases to increate Customer Lifetime Value:
-1. New customers: Recommedation of similar wines based on similar features (i.e. grape variety, producer,etc) using Data-Driven Insights.
-2. Returning Customers: Suggest wines based on their previous preferences and interactions
-
-Wine Tourism Solution:
-1. Wine tasting route or passport, tailored to the costumer's wine preferences. -->
