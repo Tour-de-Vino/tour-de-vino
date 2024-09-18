@@ -17,7 +17,7 @@ image: carrousel-images/boat.jpeg
 The **Sogrape Passport** is an exciting adventure for wine enthusiasts, offering a unique opportunity to explore Sogrape’s vast array of physical locations, including vineyards, cellars, and tasting rooms. The Passport acts as a companion for those who embark on this journey, incentivizing them to visit different Sogrape sites across various regions and countries. The goal is to engage customers with a long-term challenge that not only deepens their connection with the brand but also rewards them for exploring all that Sogrape has to offer.
 
 1. **Starting the Journey**:
-Customers enter the program by filling out simple forms detailing their interests and preferences. This allows Sogrape to create a **personalized Passport**, which contains a curated list of physical experiences such as vineyard tours, cellar visits, wine tastings, and more.
+Customers enter the program by filling out simple forms detailing their interests and preferences. This allows Sogrape to create a **Passport**, which contains a curated list of physical experiences such as vineyard tours, cellar visits, wine tastings, and more.
 
 2. **Engagement and Challenges**:
 The Passport is designed as a **long-term challenge** that encourages customers to visit multiple locations and participate in Sogrape activities. For every completed experience—whether it’s a tour of a vineyard or a wine-tasting event—customers receive a physical label or pin to place in their Passport.

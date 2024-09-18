@@ -17,7 +17,7 @@ In today’s competitive wine industry, gathering insightful customer data is ke
 
 ## **During Wine Tasting**:
 
-1. **Sensors in Wine Glasses**:
+1. **Object detection**:
    - Implement sensors in wine glasses that measure how long customers engage with each wine. This technology not only tracks the amount of time spent savoring a particular wine but can also analyze drinking patterns, such as tasting frequency and pauses between sips. The data gathered reveals customer preferences, enabling future recommendations that are more precise and personalized.
 
 2. **Interactive Wine Tasting App**:
@@ -60,5 +60,4 @@ These strategies transform data collection into an integral part of the customer
 - **Improve customer insights**: Rich data from wearables, apps, and surveys allows for deeper understanding of customer preferences, habits, and even emotions, driving more accurate marketing and product strategies.
 - **Increase engagement and sales**: Gamification and reward systems encourage customers to keep engaging with the brand, leading to repeat purchases and long-term loyalty.
 - **Foster emotional connections**: By connecting physiological data with wine experiences, Sogrape can create more emotionally resonant wine recommendations, which improves customer satisfaction.
-
 ---
