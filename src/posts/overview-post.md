@@ -15,7 +15,7 @@ image: carrousel-images/boat.jpeg
 
 ## Data-Driven Insights
 
-We will use Machine Learning models to provide personalized recommendations to the customer, which will lead to an increase in customer retention and loyalty.
+We will use Data Science Techniques and Machine Learning models to provide personalized recommendations to the customer, which will lead to an increase in customer retention and loyalty.
 
 ## Increase Customer Lifetime Value
 
@@ -31,7 +31,8 @@ We will provide a data maturity process to enhance the quality of the data. This
 
 We believe all businesses should be data-driven.
 
-**Wine Industry is no exception!**
+
+## **Wine Industry is no exception!**
 
 We will use both data science and machine learning to provide personalized recommendations to the customer, which will lead to an increase in customer retention and loyalty.
 
