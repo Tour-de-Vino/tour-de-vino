@@ -1,6 +1,6 @@
 ---
-title: Direct-to-Consumer Strategy 📈
-description: Building a direct-to-consumer strategy
+title: Data-Driven Solutions
+description: Leveraging data for personalized wine experiences
 date: "2024-9-17"
 categories:
   - sveltekit
@@ -10,22 +10,22 @@ author_image: logo.png
 image: carrousel-images/boat.jpeg
 ---
 
-### Business Impact of Recommender Systems
-1. Amazon is one of the most prominent users and pioneers of recommendation systems. By personalizing the online shopping experience for each customer, these recommendations contribute to 35% of the company's total revenue.[1].
+### Proven Business Impact of Recommender Systems
+1. **Amazon** is one of the most prominent users and pioneers of recommendation systems. By personalizing the online shopping experience for each customer, these recommendations contribute to **35%** of the company's total revenue.[1].
 
-2. Another well-known example of a recommendation system is Netflix’s algorithm. According to McKinsey, 75% of the content watched on Netflix is driven by its movie recommendations[2]. In the paper “The Netflix Recommender System: Algorithms, Business Value, and Innovation” [3], Netflix executives Carlos A. Gomez-Uribe and Neil Hunt highlight that this system saves the company approximately $1 billion annually. 
+2. Another well-known example of a recommendation system is **Netflix**’s algorithm. According to **McKinsey**, 75% of the content watched on **Netflix** is driven by its movie recommendations[2]. In the paper “The Netflix Recommender System: Algorithms, Business Value, and Innovation” [3], Netflix executives Carlos A. Gomez-Uribe and Neil Hunt highlight that this system saves the company approximately $1 billion annually. 
 
-3. Spotify reports that the introduction of its new recommendation algorithm has played a key role in boosting its monthly user base from 75 million to 100 million. [4]. 
+3. **Spotify** reports that the introduction of its new recommendation algorithm has played a key role in boosting its monthly user base from **75 million to 100 million**. [4]. 
 
+Based on the "Shreya Basu, Personalized product recommendations and firm performance, Electronic Commerce Research and Applications, Volume 48, 2021, 101074", we can see that personalized recommendations can increase sales by 30%.
+
+![30 Percent](30percent.svg)
 
 ## Build a content-based recommendation engine using existing wine data
 
 1. Recommedation of **similar wines based on similar features** (i.e. grape variety, producer, etc.)
 2. Suggest wines based on their previous preferences and interactions or ratings.
 
-Based on the "Shreya Basu, Personalized product recommendations and firm performance, Electronic Commerce Research and Applications, Volume 48, 2021, 101074", we can see that personalized recommendations can increase sales by 30%.
-
-![30 Percent](30percent.svg)
 
 
 ### Basic Approach
@@ -43,7 +43,7 @@ Based on the "Shreya Basu, Personalized product recommendations and firm perform
 - Evolve to **collaborative filtering** as the dataset grows and matures.
 
 Information about user preferences can be used to recommend wines that similar users have liked in the past.
-
+<!-- 
 This leads to:
 
 # Immediate Engagement & Personalization
@@ -69,8 +69,8 @@ Long-Term Value:
 - Customer Retention and Loyalty: Over time, as more user data is collected, the system will drive repeat purchases by providing even more personalized suggestions. This fosters customer loyalty and increases the lifetime value of each customer.
 
   - Metric: Repeat purchase rate, user lifetime value (LTV).
-
----
+-->
+--- 
 
 
 ### References
