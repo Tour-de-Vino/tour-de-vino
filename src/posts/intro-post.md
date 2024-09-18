@@ -17,7 +17,7 @@ We are excited to meet all of you! We are the Tour de Vino team! 🍷
 
 ![Tour de Vino](logo.png)
 
-We are a group of **4** students with Engineering and Artificial Intelligence Background. 
+We are a group of **4** students with Engineering and Artificial Intelligence Background.
 
 We believe that wine is not just a drink, but an **experience** to be savored and enjoyed. Our goal is to create a platform that connects wine lovers with the best wines, **personalized recommendations**, and **unforgettable wine tourism experiences**.
 

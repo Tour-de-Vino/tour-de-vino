@@ -10,17 +10,13 @@ author_image: logo.png
 image: carrousel-images/boat.jpeg
 ---
 
-
-
 ### Proven Business Impact of Recommender Systems
+
 1. **Amazon** is one of the most prominent users and pioneers of recommendation systems. By personalizing the online shopping experience for each customer, these recommendations contribute to **35%** of the company's total revenue.[1].
 
-2. Another well-known example of a recommendation system is **Netflix**’s algorithm. According to **McKinsey**, 75% of the content watched on **Netflix** is driven by its movie recommendations[2]. In the paper “The Netflix Recommender System: Algorithms, Business Value, and Innovation” [3], Netflix executives Carlos A. Gomez-Uribe and Neil Hunt highlight that this system saves the company approximately $1 billion annually. 
+2. Another well-known example of a recommendation system is **Netflix**’s algorithm. According to **McKinsey**, 75% of the content watched on **Netflix** is driven by its movie recommendations[2]. In the paper “The Netflix Recommender System: Algorithms, Business Value, and Innovation” [3], Netflix executives Carlos A. Gomez-Uribe and Neil Hunt highlight that this system saves the company approximately $1 billion annually.
 
-3. **Spotify** reports that the introduction of its new recommendation algorithm has played a key role in boosting its monthly user base from **75 million to 100 million**. [4]. 
-
-
-
+3. **Spotify** reports that the introduction of its new recommendation algorithm has played a key role in boosting its monthly user base from **75 million to 100 million**. [4].
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="amazon.png" alt="Amazon" style="margin: 0 10px; width: 100px; border-radius: 0; object-fit: contain;" />
@@ -53,7 +49,6 @@ Based on the "Shreya Basu, Personalized product recommendations and firm perform
 
 ### Upgrade Path
 
-
 ![](upgrade-path-v2.png)
 
 <!-- Transitioning to **collaborative filtering** as the data grows and matures will enable more personalized and accurate recomendations.
@@ -62,7 +57,8 @@ Based on the "Shreya Basu, Personalized product recommendations and firm perform
 1. **Explicit Feedback**: Gather direct customer inputs through ratings, reviews, and comments. Implement post-purchase surveys or incentivized feedback systems that encourage user participation without being overly intrusive.
 2. **Implicit Feedback**: Implement passive data collection through non-intrusive methods such as tracking user interactions with product pages, time spent per page, browsing behavior, cart additions, and purchase frequency.-->
 
-### Key Advantages 
+### Key Advantages
+
 - Scalable solution.
 - Real time suggestions
 - Fully automated
@@ -73,13 +69,11 @@ Information about user preferences can be used to recommend wines that similar u
 Interested for more? Check out our dashboard for a live demo of the recommendation engine!
 [Dashboard](https://huggingface.co/spaces/TourdeVino/showcase)
 
-
 ![Dashboard Example](dashboard_example.png)
-
 
 Let's take a look into how to improve wine tourism [Passaport](/passaport-post)
 
-<!-- 
+<!--
 This leads to:
 
 # Immediate Engagement & Personalization
@@ -106,10 +100,11 @@ Long-Term Value:
 
   - Metric: Repeat purchase rate, user lifetime value (LTV).
 -->
---- 
 
+---
 
 ### References
+
 [1] Jones, S.S. and Groom, F.M. eds., 2019. Artificial Intelligence and Machine Learning for Business for Non-Engineers. CRC Press, pp. 86
 
 [2] Alex Castrounis, 2019. AI for People and Business. A Framework for Better Human Experiences and Business Success.

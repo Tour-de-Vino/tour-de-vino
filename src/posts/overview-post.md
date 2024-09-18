@@ -13,7 +13,6 @@ image: solution-diagram.png
 
 ![over](main-diagram-v2.png)
 
-
 We introduce 3 main components in the solution:
 Sogrape Passport, Recommendation System, and Collectors Albumn.
 
@@ -30,12 +29,9 @@ We will use Data Science Techniques and Machine Learning models to provide perso
 We will increase the customer lifetime value by providing gamifying the experience and providing a unique adventure to the customer.
 To do, we introduced the **Collectors Albumn** and **Sogrape Passport**.
 
-
 ---
 
-
 We believe all businesses should be data-driven.
-
 
 ## **Wine Industry is no exception!**
 
@@ -55,13 +51,10 @@ Customer Lifetime Value represents the amount of revenue a customer generates ov
 
 ---
 
-
 ## Data Maturity
 
 We will provide a data maturity process to enhance the quality of the data.
 
-
-----
-
+---
 
 Let's take a look into the wine recommendation system. [Wine Recommendation System](/recommendation-post)

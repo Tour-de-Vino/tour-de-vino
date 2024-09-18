@@ -16,8 +16,6 @@ image: carrousel-images/boat.jpeg
   <img src="basic-recommend.png" alt="Content-based" />
 </div>
 
-
-
 ### Proven Case Studies That Deliver Results
 
 <div style="display: flex; justify-content: center; align-items: center;">
@@ -42,7 +40,8 @@ image: carrousel-images/boat.jpeg
 1. **Explicit Feedback**: Gather direct customer inputs through ratings, reviews, and comments. Implement post-purchase surveys or incentivized feedback systems that encourage user participation without being overly intrusive.
 2. **Implicit Feedback**: Implement passive data collection through non-intrusive methods such as tracking user interactions with product pages, time spent per page, browsing behavior, cart additions, and purchase frequency.-->
 
-### Key Advantages 
+### Key Advantages
+
 - Scalable solution.
 - Real time suggestions
 - Fully automated
@@ -53,13 +52,11 @@ Information about user preferences can be used to recommend wines that similar u
 Interested for more? Check out our dashboard for a live demo of the recommendation engine!
 [Dashboard](https://huggingface.co/spaces/TourdeVino/showcase)
 
-
 ![Dashboard Example](dashboard_example.png)
-
 
 Let's take a look into how to improve wine tourism [Passaport](/passaport-post)
 
-<!-- 
+<!--
 This leads to:
 
 # Immediate Engagement & Personalization
@@ -86,10 +83,11 @@ Long-Term Value:
 
   - Metric: Repeat purchase rate, user lifetime value (LTV).
 -->
---- 
 
+---
 
 ### References
+
 [1] Jones, S.S. and Groom, F.M. eds., 2019. Artificial Intelligence and Machine Learning for Business for Non-Engineers. CRC Press, pp. 86
 
 [2] Alex Castrounis, 2019. AI for People and Business. A Framework for Better Human Experiences and Business Success.

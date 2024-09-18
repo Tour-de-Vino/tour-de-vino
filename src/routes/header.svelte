@@ -45,11 +45,20 @@
 						aria-label="toggle menu"
 						on:click={() => (isOpen = !isOpen)}
 					>
-						<svg viewBox="0 0 24 24" class="h-6 w-6 fill-current">
+					<svg
+							width="24"
+							height="24"
+							viewBox="0 0 24 24"
+							fill="none"
+							xmlns="http://www.w3.org/2000/svg"
+						>
 							<path
-								fill-rule="evenodd"
-								d="M4 5a1 1 0 011-1h14a1 1 0 110 2H5a1 1 0 01-1-1zm1 6a1 1 0 100 2h14a1 1 0 100-2H5zm1 6a1 1 0 011-1h14a1 1 0 110 2H6a1 1 0 01-1-1z"
-							></path>
+								d="M3 12h18m-18 6h18m-18-12h18"
+								stroke="currentColor"
+								stroke-width="2"
+								stroke-linecap="round"
+								stroke-linejoin="round"
+							/>
 						</svg>
 					</button>
 				</div>
@@ -57,7 +66,7 @@
 
 			<!-- Mobile Menu open: "block", Menu closed: "hidden" -->
 			<div class={`${isOpen ? 'block' : 'hidden'} items-center md:flex`}>
-				<div class="flex flex-col md:mx-6 md:flex-row">
+				<div class="flex flex-col md:mx-6 md:flex-row pl-4 md:pl-2">
 					<a
 						class="my-1 text-sm text-gray-700 hover:text-blue-500 md:mx-4 md:my-0 dark:text-gray-200 dark:hover:text-blue-400"
 						href="/blog">Blog</a
