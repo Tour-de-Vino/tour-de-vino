@@ -8,8 +8,10 @@ categories:
 published: true
 author: Tour de Vino Team
 author_image: logo.png
-image: carrousel-images/boat.jpeg
+image: solution-diagram.png
 ---
+
+![over](main-diagram-v2.png)
 
 # 3 Pillars of the Tour de Vino Project
 
