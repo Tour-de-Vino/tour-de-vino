@@ -21,7 +21,7 @@ image: kpis.webp
 ### Business Impact
 
 
-- Recommended system yields significantly improved KPIs over baseline system without recommendation.
+•⁠  ⁠Recommended system yields significantly improved KPIs over baseline system without recommendation.
 
 
 ![](chart.png)
@@ -30,15 +30,17 @@ image: kpis.webp
 
 # Future Work for Data Collection Strategies
 
+![](data-collection.png)
+
 ## During Wine Tasting and Vineyard Visit
 
-1. **Object detection**:
+1.⁠ ⁠*Object detection*:
 
    - Wine Glasses Sensors.
       -  Track how long customers engage with each wine.
       -  Analyze drinking patterns, such as tasting frequency and pauses between sips.
 
-2. **Interactive Wine Tasting App**:
+2.⁠ ⁠*Interactive Wine Tasting App*:
 
    - User-friendly app to rate wines in real-time. 
       - Ask for feedback on taste notes, such as sweetness, tannins, or acidity.
@@ -47,7 +49,7 @@ image: kpis.webp
       - Provide educational content, videos, or fun facts about different vineyard locations.   
 
 
-3. **Wearable Technology**:
+3.⁠ ⁠*Wearable Technology*:
 
    - Equip customers with wearables like rings or wristbands that monitor physiological responses.
       - Capture emotional responses to wines, revealing which wines elicit excitement, relaxation, or other emotions.
@@ -55,10 +57,10 @@ image: kpis.webp
       - Identify which vineyard sections attract the most interest and engagement.
       - Improve the layout of future tours and optimize customer flow.
 
-4. **Loyalty Program**
+4.⁠ ⁠*Loyalty Program*
    - Incentivize user accounts registration with bonus programs to gather user historical data and preferences.
 
-5. **Data Acquisition from Third Party Vendors**
+5.⁠ ⁠*Data Acquisition from Third Party Vendors*
    - Buying anonymized wine transaction data from retailers and competitors to feed the AI Recommender to drive revenue 
    growth.
 

@@ -26,11 +26,6 @@ image: solution-diagram.png
 ![over](main-diagram-v2.png)
 
 
-
-## Platform Recommendation System
-
-We will use Data Science Techniques and Machine Learning models to provide personalized recommendations to the customer, which will lead to an increase in customer retention and loyalty.
-
 ## Increase Customer Lifetime Value
 
 We will increase the customer lifetime value by providing gamifying the experience and providing a unique adventure to the customer.
@@ -45,6 +40,12 @@ Customer Lifetime Value represents the amount of revenue a customer generates ov
 ## Data Maturity
 
 We will provide a data maturity sugestions to enhance the quality of the data.
+
+
+## Platform Recommendation System
+
+We will use Data Science Techniques and Machine Learning models to provide personalized recommendations to the customer, which will lead to an increase in customer retention and loyalty.
+
 
 ---
 
