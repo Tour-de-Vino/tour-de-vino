@@ -49,6 +49,8 @@ By simulating both recommended and random interactions with these probabilities,
 
 # Future Work for Data Collection
 
+![](data-collection.png)
+
 ## During Wine Tasting and Vineyard Visit
 
 1. **Object detection**:
