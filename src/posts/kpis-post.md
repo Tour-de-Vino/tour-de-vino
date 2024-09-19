@@ -24,7 +24,7 @@ image: kpis.webp
 •⁠  ⁠Recommended system yields significantly improved KPIs over baseline system without recommendation.
 
 
-![](chart.png)
+![](chart.jpeg)
 
 ---
 
