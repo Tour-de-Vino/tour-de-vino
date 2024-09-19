@@ -8,7 +8,7 @@ categories:
 published: true
 author: Tour de Vino Team
 author_image: logo.png
-image: coll-book.jpeg
+image: kpis.webp
 ---
 
 # Simulating User Interaction & Recommender KPIs
