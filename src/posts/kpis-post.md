@@ -41,6 +41,8 @@ By simulating both recommended and random interactions with these probabilities,
 - Higher Average Order Value (AOV): Because the recommendation system suggests relevant wines (often in higher price ranges for premium buyers), users are more likely to buy higher-value wines.
 - Repeat Purchase Rate: Users who find wines they like via recommendations are more likely to return and buy again.
 
+![](chart.png)
+
 ---
 
 # Future Work for Data Collection
