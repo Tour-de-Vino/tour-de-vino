@@ -11,8 +11,19 @@
 						Tour de Vino
 					</h1>
 					<p class="mt-6 text-xl leading-8 text-gray-700">
-						Nulla facilisi. Vestibulum facilisis id augue at laoreet. Suspendisse id facilisis quam, eget accumsan risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec sem justo, ultrices a gravida id, molestie vitae ipsum. Nunc lacus purus, blandit eget felis ac, aliquet feugiat lorem. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+						We are excited to meet all of you! We are the Tour de Vino team! 🍷
 					</p>
+
+					<img
+						class="mt-6 w-48 h-48 rounded-full"
+						src="/logo.png"
+						alt="Tour de Vino"
+					/>
+
+					<p class="mt-6 text-xl leading-8 text-gray-700">
+						We believe that wine is not just a drink, but an experience to be savored and enjoyed. Our goal is to create a platform that connects wine lovers with the best wines, personalized recommendations, and unforgettable wine tourism experiences.
+					</p>
+
 				</div>
 			</div>
 		</div>
@@ -38,8 +49,15 @@
 								alt=""
 							/>
 							<span
-								><strong class="font-semibold text-gray-900">Some cool topic.</strong> Suspendisse placerat, libero a porttitor rhoncus, ligula diam viverra tellus, sed molestie enim libero a enim. Aenean in tristique ipsum. Curabitur massa ex, ornare quis varius vel, tincidunt nec odio. In nec felis tincidunt, imperdiet felis a, fermentum odio. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse hendrerit iaculis eros, eu lobortis mi volutpat sit amet. Suspendisse dolor mauris, porta tincidunt urna in, suscipit fringilla enim. Maecenas viverra quam orci, a sollicitudin ipsum ornare ac. Maecenas condimentum quam eu quam bibendum aliquam. Morbi sapien ligula, faucibus eu posuere in, aliquam in libero. Pellentesque mauris nisl, feugiat eget commodo id, pellentesque sit amet arcu. Fusce efficitur libero non porttitor gravida. Sed porttitor orci non massa finibus elementum. In feugiat vitae enim et finibus. </span
-							>
+								><strong class="font-semibold text-gray-900">Recommendation System</strong> 
+							</span>
+							<span class="py-10">		
+									<img
+									class="mt-6 w-200 h-48"
+									src="/dashboard_example.png"
+									alt="Passport"
+								/>
+							</span>
 						</li>
 						<li class="flex gap-x-3">
 							<img
@@ -48,8 +66,17 @@
 								alt=""
 							/>
 							<span
-								><strong class="font-semibold text-gray-900">Some other cool topic here</strong> Nulla facilisi. Vestibulum facilisis id augue at laoreet. Suspendisse id facilisis quam, eget accumsan risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec sem justo, ultrices a gravida id, molestie vitae ipsum. Nunc lacus purus, blandit eget felis ac, aliquet feugiat lorem. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. </span
-							>
+								><strong class="font-semibold text-gray-900">Sogrape Passport</strong>
+							</span>
+							<span class="py-10">		
+									<img
+									class="mt-6 w-48 h-48 rounded-full"
+									src="/Passport.png"
+									alt="Passport"
+								/>
+							</span>
+
+
 						</li>
 						<li class="flex gap-x-3">
 							<img
@@ -58,16 +85,26 @@
 								alt=""
 							/>
 							<span
-								><strong class="font-semibold text-gray-900">Other amazing topic</strong>
-								Quisque hendrerit fringilla ex in porta. Pellentesque sit amet lectus et libero consectetur tincidunt sit amet non ex. Maecenas at orci scelerisque tortor tincidunt tincidunt. Nulla mattis eget leo vitae congue. Morbi elementum eros a velit consectetur malesuada. Aenean fermentum, sem sit amet molestie lobortis, nisl lacus volutpat velit, id consectetur libero diam sed ligula. Nunc pretium at ipsum at hendrerit. Integer efficitur condimentum lectus a efficitur.</span
-							>
+								><strong class="font-semibold text-gray-900">Collectors Albumn</strong>
+							</span>
+
+							<span class="py-10">		
+								<img
+								class="mt-6 w-32 h-48"
+								src="/coll-book.jpeg"
+								alt="Collectors Albumn"
+							/>
+						</span>
 						</li>
 					</ul>
 					<h2 class="mt-16 text-2xl font-bold tracking-tight text-gray-900">
-						something
+						Data Maturity
 					</h2>
 					<p class="mt-6">
-						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce mollis sapien et rhoncus pharetra. Pellentesque sit amet dolor vitae quam facilisis ornare quis ac eros. Phasellus eget consectetur tellus, non sodales dolor. Ut dictum leo vitae ultrices dictum. Etiam sed diam ullamcorper metus semper convallis eget et enim. Vivamus nisi magna, volutpat eu turpis id, tempor facilisis diam. Proin id lacus vel nunc ullamcorper pulvinar nec sit amet lacus. Aenean elementum tincidunt ante, vel ultricies magna ullamcorper ut. Duis porttitor sed nisi id dapibus.
+						We also introduced some concepts and strategies to induce data maturity in the company.
+					</p>
+					<p class="mt-6">
+						Follow us on this journey!
 					</p>
 				</div>
 			</div>

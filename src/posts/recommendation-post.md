@@ -47,13 +47,11 @@ Interested for more? Check out our dashboard for a live demo of the recommendati
 [Dashboard](https://huggingface.co/spaces/TourdeVino/showcase)
 ![Dashboard Example](dashboard_example.png)
 
-
 ### Key Advantages
 
 - Scalable solution
 - Real time suggestions
 - Fully automated
-
 
 Let's take a look into how to improve wine tourism [Passaport](/passaport-post)
 
