@@ -40,3 +40,7 @@ By simulating both recommended and random interactions with these probabilities,
 - Higher Conversion Rate: More users ultimately add to cart and purchase recommended wines (30% after viewing details vs. 10% for random).
 - Higher Average Order Value (AOV): Because the recommendation system suggests relevant wines (often in higher price ranges for premium buyers), users are more likely to buy higher-value wines.
 - Repeat Purchase Rate: Users who find wines they like via recommendations are more likely to return and buy again.
+
+---
+
+We can redirect you to our first post! [Thank you!](/thank-you-post)
