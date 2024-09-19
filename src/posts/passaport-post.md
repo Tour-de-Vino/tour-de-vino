@@ -11,6 +11,7 @@ author_image: logo.png
 image: Passport.png
 ---
 
+![](Passport.png)
 ![](passport-diagram-v2.png)
 
 The **Sogrape's Passport** is an exciting adventure for wine enthusiasts, offering a unique opportunity to explore Sogrape’s vast array of physical locations, including vineyards, cellars, and tasting rooms.
