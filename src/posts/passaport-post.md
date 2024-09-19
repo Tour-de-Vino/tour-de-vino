@@ -14,6 +14,8 @@ image: Passport.png
 ![](Passport.png)
 ![](passport-diagram-v2.png)
 
+
+
 The **Sogrape's Passport** is an exciting adventure for wine enthusiasts, offering a unique opportunity to explore Sogrape’s vast array of physical locations, including vineyards, cellars, and tasting rooms.
 
 1. **Increased Customer Engagement**: The Passport motivates ongoing participation, driving repeat visits to Sogrape’s locations and fostering deeper brand connections as costumers collect stamps in their passports.
