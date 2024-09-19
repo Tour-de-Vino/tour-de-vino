@@ -47,6 +47,11 @@ Interested for more? Check out our dashboard for a live demo of the recommendati
 [Dashboard](https://huggingface.co/spaces/TourdeVino/showcase)
 ![Dashboard Example](dashboard_example.png)
 
+SOGRAPE can also look into reselling oportunities from other suppliers with a triple objective: 
+  - Collect more data for the future
+  - Better suggestions from more data and more users
+  - Skew towards Sogrape products while providing good suggestions from other suppliers
+
 ### Key Advantages
 
 - Scalable solution

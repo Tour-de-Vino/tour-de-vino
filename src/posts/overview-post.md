@@ -15,7 +15,7 @@ image: solution-diagram.png
 
 ---
 
-![over](sogrape-problems.png)
+![over](sogrape-probems.png)
 
 
 We introduce 3 main components in the solution:
@@ -24,11 +24,6 @@ Sogrape Passport, Platform Recommendation System, and Collectors Albumn.
 
 ![over](main-diagram-v2.png)
 
-
-
-## Platform Recommendation System
-
-We will use Data Science Techniques and Machine Learning models to provide personalized recommendations to the customer, which will lead to an increase in customer retention and loyalty.
 
 ## Increase Customer Lifetime Value
 
@@ -44,6 +39,12 @@ Customer Lifetime Value represents the amount of revenue a customer generates ov
 ## Data Maturity
 
 We will provide a data maturity sugestions to enhance the quality of the data.
+
+
+## Platform Recommendation System
+
+We will use Data Science Techniques and Machine Learning models to provide personalized recommendations to the customer, which will lead to an increase in customer retention and loyalty.
+
 
 ---
 
