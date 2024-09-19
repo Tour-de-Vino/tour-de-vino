@@ -17,12 +17,13 @@ image: kpis.webp
 ![](simulated-user-interactions.png)
 
 
+<div style="margin-top: 50px"></div>
 
 ### Business Impact
 
 
 •⁠  ⁠Recommended system yields significantly improved KPIs over baseline system without recommendation.
-
+<div style="margin-top: 30px"></div>
 
 ![](chart.jpeg)
 
@@ -30,7 +31,11 @@ image: kpis.webp
 
 # Future Work for Data Collection Strategies
 
+<div style="margin-top: 40px"></div>
+
 ![](data-collection.png)
+
+<!---
 
 ## During Wine Tasting and Vineyard Visit
 
@@ -65,5 +70,6 @@ image: kpis.webp
    growth.
 
 ---
+--->
 
 We can redirect you to our first post! [Thank you!](/thank-you-post)

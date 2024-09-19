@@ -13,14 +13,18 @@ image: solution-diagram.png
 
 # What are the Problems we are trying to solve?
 
----
+<div style="margin-top: 100px"></div>
 
 ![over](sogrape-probems.png)
 
+---
+
+<div style="margin-top: 30px"></div>
 
 We introduce 3 main components in the solution:
 Sogrape Passport, Platform Recommendation System, and Collectors Albumn.
 
+<div style="margin-top: 30px"></div>
 
 ![over](main-diagram-v2.png)
 
