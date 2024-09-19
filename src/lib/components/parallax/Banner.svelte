@@ -29,16 +29,54 @@
 			<h2 class="text-4xl font-bold tracking-tight text-white sm:text-6xl">
 				Wine Excellence for you
 			</h2>
-			<p class="mt-6 text-lg leading-8 text-gray-300">
-				Welcome to Tour de Vino
-			</p>
+			<!-- div to put 4 users -->
+			<div class="grid grid-cols-1 gap-x-8 gap-y-6 text-base font-semibold leading-7 text-white sm:grid-cols-2 md:flex lg:gap-x-10">
+				
+				<figcaption class="mt-6 flex flex-col items-center justify-center space-y-3">
+					<img
+						class="h-24 w-24 rounded-full"
+						src="/authors/Melo.png"
+					/>
+					<div class="flex flex-col items-center divide-y-2 divide-gray-500 dark:divide-gray-700">
+						<div class="pt-3 font-medium">Rui Melo</div>
+					</div>
+				</figcaption>
+
+				<figcaption class="mt-6 flex flex-col items-center justify-center space-y-3">
+					<img
+						class="h-24 w-24 rounded-full"
+						src="/authors/Andre.png"
+					/>
+					<div class="flex flex-col items-center divide-y-2 divide-gray-500 dark:divide-gray-700">
+						<div class="pt-3 font-medium">André Catarino</div>
+					</div>
+				</figcaption>
+				<figcaption class="mt-6 flex flex-col items-center justify-center space-y-3">
+					<img
+						class="h-24 w-24 rounded-full"
+						src="/authors/Paulo.png"
+					/>
+					<div class="flex flex-col items-center divide-y-2 divide-gray-500 dark:divide-gray-700">
+						<div class="pt-3 font-medium">Paulo Fidalgo</div>
+					</div>
+				</figcaption>
+				<figcaption class="mt-6 flex flex-col items-center justify-center space-y-3">
+					<img
+						class="h-24 w-24 rounded-full"
+						src="/authors/Dinis.png"
+					/>
+					<div class="flex flex-col items-center divide-y-2 divide-gray-500 dark:divide-gray-700">
+						<div class="pt-3 font-medium">Dinis Costa</div>
+					</div>
+				</figcaption>
+
+			</div>
 		</div>
 		<div class="mx-auto mt-10 max-w-2xl lg:mx-0 lg:max-w-none">
 			<div
 				class="grid grid-cols-1 gap-x-8 gap-y-6 text-base font-semibold leading-7 text-white sm:grid-cols-2 md:flex lg:gap-x-10"
 			>
 				<a href="/blog">Blog <span aria-hidden="true">&rarr;</span></a>
-				<a href="#">Team <span aria-hidden="true">&rarr;</span></a>
 			</div>
 		</div>
 	</div>
