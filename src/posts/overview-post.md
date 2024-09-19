@@ -15,7 +15,7 @@ image: solution-diagram.png
 
 ---
 
-![over](sogrape-problems.png)
+![over](sogrape-probems.png)
 
 
 We introduce 3 main components in the solution:
