@@ -21,8 +21,8 @@ image: solution-diagram.png
 
 <div style="margin-top: 30px"></div>
 
-We introduce 3 main components in the solution:
-Sogrape Passport, Platform Recommendation System, and Collectors Albumn.
+# Solution
+<div style="margin-top: 50px"></div>
 
 <div style="margin-top: 30px"></div>
 
